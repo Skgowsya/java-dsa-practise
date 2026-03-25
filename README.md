@@ -1,0 +1,1 @@
+So...The HTML language with CSS is very importtant to create any app or any other application.By using HTML with CSS we can create our own frontend application that is visible to user.The CSS can be used to give the colours to the applicaton that has been created by using the html.  
