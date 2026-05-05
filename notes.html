@@ -37,6 +37,7 @@
         note.push(note);
         localStorage.setItem("notes",JSON.stringify(notes));
         input.value="";
+        console.log(note);
         displayNotes();
       }
       function deleteNote(index){
