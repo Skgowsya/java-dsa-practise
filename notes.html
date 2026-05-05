@@ -9,6 +9,7 @@
     <button onclick="addNote()">Add</button>
     <ul id="notelist"></ul>
     <script>
+      alert("clicked");
       let notes=JSON.parse(localStorage.getItem("notes")) || [];
       function displayNotes(){
         let list=document.getElementById("noteList");
